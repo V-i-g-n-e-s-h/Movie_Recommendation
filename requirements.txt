@@ -1,0 +1,4 @@
+py2neo
+streamlit
+pandas
+python-dotenv
